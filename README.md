@@ -1,4 +1,4 @@
-# api_final
+# REST API для проекта Yatube.
 API проекта yatube
 
 ### Как запустить проект:
